@@ -1,0 +1,13 @@
+using System;
+class TemperatureConversion
+{
+    static void Main()
+    {
+        Console.Write("Enter Celsius: ");
+        double celsius = double.Parse(Console.ReadLine());
+
+        double fahrenheitResult = (celsius * 9 / 5) + 32;
+
+        Console.WriteLine($"The {celsius} Celsius is {fahrenheitResult} Fahrenheit");
+    }
+}
