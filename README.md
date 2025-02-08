@@ -8,3 +8,4 @@
 - 31 jan programs java class and objects
 - 4 feb programs of static keyword and is operator
 - 6 feb programs of object modelling
+- 8 feb programs of "submission of inheritence"
