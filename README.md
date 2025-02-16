@@ -13,3 +13,4 @@
 - 12 feb programs of "Data structures- LinkedList"
 - 13 feb programs of "Stack , Queue, HashMap and Hashing Function"
 - 14 feb programs of "sorting algorithms"
+- 16 feb programs of "Linear and Binary Search"
