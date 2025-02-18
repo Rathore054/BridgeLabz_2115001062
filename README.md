@@ -15,3 +15,4 @@
 - 14 feb programs of "sorting algorithms"
 - 16 feb programs of "Linear and Binary Search"
 - 17 feb programs of "Algorithm's Runtime Analysis & Big-O Notation"
+- 18 feb programs of "C# generics"
