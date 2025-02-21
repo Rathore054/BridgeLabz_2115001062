@@ -18,3 +18,4 @@
 - 18 feb programs of "C# generics"
 - 19 feb programs of "collections"
 - 20 feb programs of "C# streams"
+- 21 feb programs of "exceptions"
