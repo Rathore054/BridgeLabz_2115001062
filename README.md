@@ -19,3 +19,4 @@
 - 19 feb programs of "collections"
 - 20 feb programs of "C# streams"
 - 21 feb programs of "exceptions"
+- 22 feb programs of "regex and nUnit"
