@@ -22,3 +22,4 @@
 - 22 feb programs of "regex and nUnit"
 - 24 feb programs of "annotations and reflection"
 - 25 feb programs of "CSV data handling"
+- 26 feb programs of "JSON file handling"
