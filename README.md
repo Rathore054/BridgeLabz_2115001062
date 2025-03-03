@@ -24,3 +24,4 @@
 - 25 feb programs of "CSV data handling"
 - 26 feb programs of "JSON file handling"
 - 28 feb programs of "web API"
+- 1 mar programs of "submission of ORM"
